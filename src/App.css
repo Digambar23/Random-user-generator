@@ -1,0 +1,10 @@
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.main {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
